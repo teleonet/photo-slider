@@ -1,7 +1,9 @@
-package com.example.admin.photo_slider;
+package com.example.admin.photo_slider.ui.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.admin.photo_slider.R;
 
 public class MainActivity extends AppCompatActivity {
 
